@@ -1,0 +1,299 @@
+.nav {
+    height: 80px;
+    background-color:#efc964;
+margin-right: -300px;
+}
+.logo{
+    height: 600px;
+  margin-left: 500px;
+
+}
+.navbottum {
+    height: 60px;
+font-size: 20px;
+margin-left: 300px;
+margin-top: -10px;
+background-color: white;
+}
+.text {
+    font-size: 30px;
+margin-left: 700px;
+color: gray;
+}
+ .design1 {
+    position: absolute;
+    top: 50px;
+    left: 775px;
+}
+ .design2 { 
+    position: absolute;
+    top: -300px;
+    left: 535px;
+}
+.design3 {
+    position: absolute;
+    top: -300px;
+    left: 535px;
+}
+.design4 {
+    position: absolute;
+    top: -300px;
+    left: 535px;
+}
+.back {
+    position: absolute;
+    top: -260px;
+    left: 535px;
+} 
+
+/* =============================================================page2================================================ */
+.footer2 {
+    height: 80px;
+    background-color:#efc964;
+    text-align: center;
+    color: rgb(101, 101, 101);
+    margin-bottom: -10px;
+    margin-left: 0px;
+    width: 1600px;
+}
+.footer2>h1>span {
+    color: black;
+}
+.text1 {
+    font-size: 30px;
+margin-left: 600px;
+color: rgb(96, 96, 96);
+}
+.text1 {
+    font-size: 30px;
+    margin-left: 50px;
+    color: rgb(96, 96, 96);
+    word-spacing: 10px;
+    margin-top: -40px;
+}
+.footer {
+    background-color: aquamarine;
+    text-align: center;
+    padding-top: 3px;
+    height: 70px;
+    margin-left: 0px;
+    width: 1600px;
+}
+.back1 {
+    position: absolute;
+  left: 560px;
+  top: -350px;
+ 
+}
+.design5{
+    position: absolute;
+    top: 30px;
+    left: 1100px;
+}
+.design6{
+    position: absolute;
+    top: 100px;
+    left: 1100px;
+}
+.design7{
+    position: absolute;
+    top: 200px;
+    left: 1100px;
+}
+.design8{
+    position: absolute;
+    top: 300px;
+    left: 1100px;
+} 
+/* ==========================================page3====================================== */
+.nav3{
+    height: 80px;
+    background-color:#efc964;   
+}
+.logo3{
+    height: 600px;
+    margin-left: 1050px;
+}
+.img3 {
+    margin-top: -193px;
+}
+
+.imglogo {
+    position: absolute;
+    top: 88px;
+    right: 8px;
+    background-color: black;
+   padding-right: 235px;
+   padding-bottom: 80px;
+} 
+.imglogo>p {
+    color: #efc964;
+    position: absolute;
+    top: 280px;
+    font-size: 30px;
+    right: 260px;
+}
+.text3{
+    margin-top: -850px;
+    margin-left: 800px;
+    font-size: 30px;
+}
+.footer3 {
+    height: 80px;
+    background-color:#efc964;
+    
+}
+.footer3>h1{
+    color: rgb(101, 101, 101);
+    margin-bottom: -10px;
+    margin-left: 900px;
+}
+.footer3>h1>span {
+    color: black;
+}
+.footer4 {
+    background-color: aquamarine;
+    height: 70px;
+    margin-right: 400px;
+    padding-top: 3px;
+}
+.footer4>h4{
+    margin-left: 1000px;
+    color: gray;
+}
+.footer4>span{
+    margin-left: 1000px;
+    color: gray;
+    position: absolute;
+    top: 1263px;
+    right: 260px;
+    color: black;
+    font-weight: bolder;
+}
+.shap{
+    position: absolute;
+    top: 610px;
+    right: 600px;
+}
+.shap3{
+    position: absolute;
+    top: 780px;
+    right: 670px;
+}
+/* ================================================================furniture page=========================================================== */
+
+.nav5{
+    height: 80px;
+    background-color:rgb(158, 237, 211);   
+}
+
+.logo5{
+    height: 600px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.img5 {
+    margin-top: -195px;
+}
+.footer5 {
+    color: black;
+    margin-top: -600px;
+    padding: 30px;
+    height: 150px;
+  
+    
+}
+.footer5>h2 {
+    margin-bottom: -35px;
+    font-size: 40px;
+   
+}
+.footer5>p {
+   
+    font-size: 20px;
+}
+.inner {
+    background-color: #efc964;
+position: absolute;
+top: 1237px;
+right: 100px;
+width: 300px;
+margin-right: -90px;
+ height: 150px;
+}
+.inner>p {
+    margin-left: 60px;
+    padding-top: 60px;
+}
+/* ===============================================description page============================================== */
+.nav6{
+    height: 80px;
+    background-color:rgb(158, 237, 211); 
+    width: 1100px;  
+}
+
+.logo6{
+    height: 600px;
+    margin-left: 1200px;
+    margin-top: 10px;
+}
+.navbottum6 {
+    height: 60px;
+font-size: 20px;
+margin-left: 200px;
+word-spacing: 10px;
+background-color: white;
+}
+.img6 {
+    margin-left: 240px;
+   
+}
+.img7 {
+    margin-left: 80px;
+   
+}
+.img8 {
+    margin-left: 1120px;
+    margin-top: -310px;
+   
+}
+.section {
+    display: flex;
+}
+.footer8 {
+    height: 200px;
+    background-color:#efc964;
+    margin-top: -25px;
+ width: 1520px;   
+
+}
+.footer8>h1{
+    margin-left: 1200px;
+  padding-top: 120px;
+  font-size: 40px;
+}
+.footer8>p{
+    margin-left: 1200px;
+    margin-top: -20px;
+    font-size: 20px;
+   
+}
+.footer9{
+    margin-left: 240px;
+}
+.session{
+    display: flex;
+}
+.footer10{
+    margin-left: 650px;
+    
+}
+.footer10>h1{
+   letter-spacing: 10px;
+    
+}
+.footer10>h3{
+    letter-spacing: 5px;
+    margin-left: 50px;
+     margin-top: -10px;
+ }
